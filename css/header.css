@@ -1,0 +1,33 @@
+#header {
+    width: 100%;
+    height: auto;
+}
+
+#titulos-header {
+    font-size: 18px;
+    text-align: center;
+}
+
+#content-header {
+    width: 100%;
+    height: 75px;
+    background-color: #0f4074;
+}
+
+#article-header {
+    font-size: 23px;
+    text-align: center;
+    background-color: #0f4074;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    background-color: #0f4074;
+    border-radius: 1px;
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    color: lightcyan;
+}
